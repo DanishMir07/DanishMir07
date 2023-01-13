@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanishMir07
 - 👀 I’m interested in making lives better through innovation and technology 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Blockchain project 
+- 🌱 Building a dApp ...
+- 💞️ I’m looking to collaborate on Blockchain project(s)
 - 📫 How to reach me, just send me an email: tag.mirdanish@gmail.com
 
 <!---
